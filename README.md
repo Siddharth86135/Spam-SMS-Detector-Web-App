@@ -1,4 +1,4 @@
-# Car-Price-Prediction-Web-App
+# Spam-SMS-Detector-Web-App
 
 ## Objective
 
